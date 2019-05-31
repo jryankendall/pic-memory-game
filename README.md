@@ -1,3 +1,8 @@
+# pic-memory-game
+Memory testing game that uses React.js.
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -19,10 +24,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-# pic-memory-game
-Memory testing game that uses React.js.
-
-----
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
