@@ -1,11 +1,23 @@
-import React, {Component} from 'react';
+import React from 'react';
+import Gamerow from './Gamerow';
 
-class Game extends Component {
-    render() {
-        return (
-            <p>F</p>
-        )
-    }
+function Game(props) {
+    return (
+        <>
+            <Gamerow row="1">
+                {props.children}
+            </Gamerow>
+            <Gamerow row="2">
+                {props.children}
+            </Gamerow>
+            <Gamerow row="3">
+                {props.children}
+            </Gamerow>
+            <Gamerow row="4">
+                {props.children}
+            </Gamerow>
+        </>
+    )
 }
 
 export default Game;
