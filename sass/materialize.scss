@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+//Queries Mix-ins
+@import "queries";
+
 // Color
 @import "components/color-variables";
 @import "components/color-classes";
@@ -27,3 +30,7 @@
 @import "components/slider";
 @import "components/tapTarget";
 @import "components/pulse";
+
+//My components
+@import "outlines";
+@import "pictures";

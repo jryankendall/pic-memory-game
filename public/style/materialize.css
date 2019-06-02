@@ -5776,5 +5776,30 @@ button.btn-floating {
     transform: scale(1.5);
   }
 }
+.picture-box-col {
+  border: solid black 1px;
+}
+
+.row {
+  margin: 2px;
+}
+
+@media (min-width: 993px) {
+  .guessing-picture {
+    height: 150px;
+    width: 150px;
+  }
+}
+@media (max-width: 599px) {
+  .guessing-picture {
+    height: 150px;
+    width: 100px;
+  }
+}
+
+.picture-box-col {
+  display: flex;
+  justify-content: center;
+}
 
 /*# sourceMappingURL=materialize.css.map */

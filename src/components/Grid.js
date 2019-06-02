@@ -9,8 +9,7 @@ class Grid extends Component {
         return (
             <Container>
                 <Row>
-                    <Col12>
-                    </Col12>
+                    <Col12 />
                 </Row>
                 <Row>
                     <Col12>

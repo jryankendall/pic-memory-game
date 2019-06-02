@@ -1,21 +1,13 @@
 import React from 'react';
 import Gamerow from './Gamerow';
 
-function Game(props) {
+function Game() {
     return (
         <>
-            <Gamerow row="1">
-                {props.children}
-            </Gamerow>
-            <Gamerow row="2">
-                {props.children}
-            </Gamerow>
-            <Gamerow row="3">
-                {props.children}
-            </Gamerow>
-            <Gamerow row="4">
-                {props.children}
-            </Gamerow>
+            <Gamerow row="1"/>
+            <Gamerow row="2"/>
+            <Gamerow row="3"/>
+            <Gamerow row="4"/>
         </>
     )
 }

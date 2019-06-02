@@ -1,0 +1,17 @@
+.guessing-picture {
+
+    @include for-tablet-landscape-up {
+        height: 150px;
+        width: 150px;
+    }
+
+    @include for-phone-only {
+        height: 150px;
+        width: 100px;
+    }
+}
+
+.picture-box-col {
+    display: flex;
+    justify-content: center;
+}
