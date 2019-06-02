@@ -5781,7 +5781,11 @@ button.btn-floating {
 }
 
 .row {
-  margin: 2px;
+  margin-top: 8px;
+}
+
+.guessing-picture {
+  border: solid black 1px;
 }
 
 @media (min-width: 993px) {
@@ -5797,7 +5801,15 @@ button.btn-floating {
   }
 }
 
-.picture-box-col {
+.image-box-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.image-div {
+  min-width: 22%;
+  margin: 0.5%;
   display: flex;
   justify-content: center;
 }

@@ -9,10 +9,10 @@ class Grid extends Component {
         return (
             <Container>
                 <Row>
-                    <Col12 />
+                    <Col12 className="col s12" />
                 </Row>
                 <Row>
-                    <Col12>
+                    <Col12 className="col s12" id="main-content-col">
                         <Game/>
                     </Col12>
                 </Row>

@@ -1,14 +1,11 @@
 import React from 'react';
-import Gamerow from './Gamerow';
+import Images from "./Images";
 
-function Game() {
+function Game(props) {
     return (
-        <>
-            <Gamerow row="1"/>
-            <Gamerow row="2"/>
-            <Gamerow row="3"/>
-            <Gamerow row="4"/>
-        </>
+        <div className="col s12 image-box-container">
+            <Images className="guessing-picture" />
+        </div>
     )
 }
 
