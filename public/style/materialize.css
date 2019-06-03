@@ -5788,6 +5788,10 @@ button.btn-floating {
   border: solid black 1px;
 }
 
+.guessing-picture {
+  max-width: 150px;
+  max-height: 150px;
+}
 @media (min-width: 993px) {
   .guessing-picture {
     height: 150px;

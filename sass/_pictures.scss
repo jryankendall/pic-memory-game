@@ -1,5 +1,8 @@
 .guessing-picture {
 
+    max-width: 150px;
+    max-height: 150px;
+
     @include for-tablet-landscape-up {
         height: 150px;
         width: 150px;
