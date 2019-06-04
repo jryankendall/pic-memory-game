@@ -1,3 +1,4 @@
+/*eslint-disable no-func-assign*/
 import React, {Component} from 'react';
 import Image from "./Image";
 
@@ -20,9 +21,13 @@ importImages(gameImages, imageArray);
 
 class Images extends Component {
 
-    state = {
-        clicked: []
-    };
+    constructor(props) {
+        super(props)
+        this.state = {
+            clicked: []
+        }
+    }
+
 
     handleImageClick = event => {
         const character = event.target.attributes.value.value;
@@ -73,6 +78,8 @@ class Images extends Component {
 
     render() {
         let props = this.props;
+        console.log(props);
+        
         return (
             <>
                 {imageArray.map((value, index) => {

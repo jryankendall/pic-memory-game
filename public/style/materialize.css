@@ -5818,4 +5818,13 @@ button.btn-floating {
   justify-content: center;
 }
 
+.scorelabel {
+  font-weight: bold;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+}
+
 /*# sourceMappingURL=materialize.css.map */
