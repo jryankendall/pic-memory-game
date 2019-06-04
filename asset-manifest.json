@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pic-memory-game/static/css/main.2cce8147.chunk.css",
+    "main.js": "/pic-memory-game/static/js/main.f0c021c6.chunk.js",
+    "main.js.map": "/pic-memory-game/static/js/main.f0c021c6.chunk.js.map",
+    "runtime~main.js": "/pic-memory-game/static/js/runtime~main.5a70a718.js",
+    "runtime~main.js.map": "/pic-memory-game/static/js/runtime~main.5a70a718.js.map",
+    "static/js/2.7e675ef3.chunk.js": "/pic-memory-game/static/js/2.7e675ef3.chunk.js",
+    "static/js/2.7e675ef3.chunk.js.map": "/pic-memory-game/static/js/2.7e675ef3.chunk.js.map",
+    "index.html": "/pic-memory-game/index.html",
+    "precache-manifest.0795771794ed69cf8abdae2a9c56acca.js": "/pic-memory-game/precache-manifest.0795771794ed69cf8abdae2a9c56acca.js",
+    "service-worker.js": "/pic-memory-game/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/pic-memory-game/static/css/main.2cce8147.chunk.css.map",
+    "static/media/barney.jpg": "/pic-memory-game/static/media/barney.a0cf24e2.jpg",
+    "static/media/bart.jpg": "/pic-memory-game/static/media/bart.edf16874.jpg",
+    "static/media/burns.jpg": "/pic-memory-game/static/media/burns.0438bee3.jpg",
+    "static/media/chalmers.jpg": "/pic-memory-game/static/media/chalmers.75587235.jpg",
+    "static/media/comicbookguy.jpg": "/pic-memory-game/static/media/comicbookguy.d50bb14e.jpg",
+    "static/media/fattony.jpg": "/pic-memory-game/static/media/fattony.743cf64b.jpg",
+    "static/media/homer.jpg": "/pic-memory-game/static/media/homer.dc744b6f.jpg",
+    "static/media/maggie.jpg": "/pic-memory-game/static/media/maggie.ac68a30f.jpg",
+    "static/media/marge.jpg": "/pic-memory-game/static/media/marge.812ca2ad.jpg",
+    "static/media/moe.jpg": "/pic-memory-game/static/media/moe.5f369d70.jpg",
+    "static/media/scorpio.jpg": "/pic-memory-game/static/media/scorpio.3e3c1c65.jpg",
+    "static/media/skinner.jpg": "/pic-memory-game/static/media/skinner.bc382766.jpg",
+    "static/media/smithers.jpg": "/pic-memory-game/static/media/smithers.cc989186.jpg",
+    "static/media/wiggum.jpg": "/pic-memory-game/static/media/wiggum.2462be51.jpg",
+    "static/media/willie.jpg": "/pic-memory-game/static/media/willie.7dd4cf10.jpg"
+  }
+}
