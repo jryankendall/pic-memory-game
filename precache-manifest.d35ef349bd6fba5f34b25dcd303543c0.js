@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9395d7c5cdf178d2dfbe1e1ad2bc85e",
+    "revision": "9b8b177daf7f62b1d414b902a4555055",
     "url": "/pic-memory-game/index.html"
   },
   {
