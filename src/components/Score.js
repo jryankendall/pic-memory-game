@@ -5,7 +5,7 @@ class Score extends Component {
     state = {
         streak: 0,
         record: 0
-    };
+    }
 
     render() {
         return (
@@ -17,4 +17,5 @@ class Score extends Component {
     };
 }
 
+  
 export default Score;
